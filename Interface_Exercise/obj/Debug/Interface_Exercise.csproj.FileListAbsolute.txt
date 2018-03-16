@@ -1,0 +1,7 @@
+C:\Users\migue\Desktop\Interface_Exercise\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.exe.config
+C:\Users\migue\Desktop\Interface_Exercise\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.exe
+C:\Users\migue\Desktop\Interface_Exercise\Interface_Exercise\Interface_Exercise\bin\Debug\Interface_Exercise.pdb
+C:\Users\migue\Desktop\Interface_Exercise\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csprojResolveAssemblyReference.cache
+C:\Users\migue\Desktop\Interface_Exercise\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Interface_Exercise\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.exe
+C:\Users\migue\Desktop\Interface_Exercise\Interface_Exercise\Interface_Exercise\obj\Debug\Interface_Exercise.pdb
